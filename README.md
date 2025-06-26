@@ -2,7 +2,6 @@
 
 Mi primer repositorio en GitHub
 
-
 I love :pizza: and :video_game: 
 
 
